@@ -1,0 +1,1 @@
+text =Hello <<SaiAditya>>, We have your full name as <<Sai Aditya>> in our system. Your contact number is 91-4567586948. Please,let us know in case of any clarification. Thank you BridgeLabz 01/01/2020.
